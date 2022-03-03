@@ -229,7 +229,7 @@ S,#229,Regigigas,Normal,,670,110,160,80,110,110,100
 S,#230,Cresselia,Psychic,,600,120,70,75,120,130,85
 S,#231,Thundurus,Electric,Flying,580,79,115,125,70,80,111
 S,#231,Thundurus Therian,Electric,Flying,580,79,105,145,70,80,101
-S,#232,Tornadus,,,580,79,115,125,70,80,111
+S,#232,Tornadus,Flying,,580,79,115,125,70,80,111
 S,#232,Tornadus Therian,Flying,,580,79,100,110,80,90,121
 S,#233,Landorus Therian,Ground,Flying,600,89,145,105,90,80,91
 S,#233,Landorus,Ground,Flying,600,89,125,115,90,80,101
